@@ -1,0 +1,14 @@
+I start learn new skills React to build applications 
+Step 1: Install Node.js
+To install Node, navigate to the Node.js website
+node -v in your command prompt
+
+Step 2: Install React
+1.Using CRA (Create-react-app)
+ cd [directory name] then click enter.
+npx create-react-app [project name of your choice]
+The node module folder is a storage folder that holds your React package along with other packages that might be installed as you work on your React project. The node module helps configure the design system of your React project.
+The src folder stores in all the files and components used in your react application ranging from the App.js, index.js, App.css just as seen in the image above.
+The package-lock.json file locks the versions of dependencies your React project uses, and this helps in managing dependencies in your React project.
+Recently, create-react-app has become deprecated and the React team doesn't recommend using it anymore. Other modern tools provide a faster front-end development experience, and and you can use them to create React apps without stress.
+Such tools include Vite, Snowpack, Gatsby, Next.js, Percel, and so on.
